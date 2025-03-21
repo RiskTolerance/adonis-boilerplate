@@ -2,9 +2,9 @@ name: CI Placeholder
 
 on:
   push:
-    branches: [main]
+    branches: [daddy]
   pull_request:
-    branches: [main]
+    branches: [daddy]
 
 jobs:
   placeholder:
